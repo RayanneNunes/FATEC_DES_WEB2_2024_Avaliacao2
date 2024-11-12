@@ -15,7 +15,7 @@ Crie um cadastro em PHP para os coordenadores de estágios da Fatec Araras possa
  - - 1 para DSM
  - - 2 para GE
   
-![alt text](use_case.png)
+
 
 ### 1- Classe Cadastro (40% da nota)
 - Toda a manipulação de dados no banco de dados deve ocorrer dentro da classe Cadastro. Esta classe deve ser criada dentro do diretório <b>classes</b>.
